@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RideWithObstacles</string>
+    <string name="ride">Пройдено: </string>
+    <string name="money">Собрано монет: </string>
+    <string name="retryHeader">Игра окончена</string>
+    <string name="initCounterValue">0</string>
+    <string name="monets">Монеты: </string>
+    <string name="isAlreadyBuyed">Машина уже куплена</string>
+    <string name="statusUnsynced">Не синхронизировано</string>
+    <string name="userSyncedStatus">Статус синхронизации пользователя:</string>
+    <string name="dataSyncedStatus">Статус синхронизации данных:</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="id">ID</string>
+</resources>
